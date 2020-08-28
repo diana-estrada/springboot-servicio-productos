@@ -41,5 +41,9 @@ public class ProductoController {
 		producto.setPort(port);
 		return producto;
 	}
+	
+	public void test() {
+		
+	}
 
 }
